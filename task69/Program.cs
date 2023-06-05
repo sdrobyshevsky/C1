@@ -1,4 +1,4 @@
-﻿Console.WriteLine ("Введите количество смываний говна:");  
+﻿Console.Write ("Введите количество смываний говна: ");  
 int N = Convert.ToInt32(Console.ReadLine());                                                                                                               
 if  (N < 10)                                                            
 {
