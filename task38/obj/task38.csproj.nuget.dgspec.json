@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Downloads\\GB\\C#\\task38\\task38.csproj": {}
+    "f:\\Downloads\\GB\\C#\\task38\\task38.csproj": {}
   },
   "projects": {
-    "F:\\Downloads\\GB\\C#\\task38\\task38.csproj": {
+    "f:\\Downloads\\GB\\C#\\task38\\task38.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Downloads\\GB\\C#\\task38\\task38.csproj",
+        "projectUniqueName": "f:\\Downloads\\GB\\C#\\task38\\task38.csproj",
         "projectName": "task38",
-        "projectPath": "F:\\Downloads\\GB\\C#\\task38\\task38.csproj",
+        "projectPath": "f:\\Downloads\\GB\\C#\\task38\\task38.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\Downloads\\GB\\C#\\task38\\obj\\",
+        "outputPath": "f:\\Downloads\\GB\\C#\\task38\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

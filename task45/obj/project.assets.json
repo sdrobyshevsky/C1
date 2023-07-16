@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Downloads\\GB\\C#\\task45\\task45.csproj",
+      "projectUniqueName": "f:\\Downloads\\GB\\C#\\task45\\task45.csproj",
       "projectName": "task45",
-      "projectPath": "F:\\Downloads\\GB\\C#\\task45\\task45.csproj",
+      "projectPath": "f:\\Downloads\\GB\\C#\\task45\\task45.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\Downloads\\GB\\C#\\task45\\obj\\",
+      "outputPath": "f:\\Downloads\\GB\\C#\\task45\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

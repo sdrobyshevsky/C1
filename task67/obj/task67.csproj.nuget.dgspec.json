@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Downloads\\GB\\C#\\task67\\task67.csproj": {}
+    "f:\\Downloads\\GB\\C#\\task67\\task67.csproj": {}
   },
   "projects": {
-    "F:\\Downloads\\GB\\C#\\task67\\task67.csproj": {
+    "f:\\Downloads\\GB\\C#\\task67\\task67.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Downloads\\GB\\C#\\task67\\task67.csproj",
+        "projectUniqueName": "f:\\Downloads\\GB\\C#\\task67\\task67.csproj",
         "projectName": "task67",
-        "projectPath": "F:\\Downloads\\GB\\C#\\task67\\task67.csproj",
+        "projectPath": "f:\\Downloads\\GB\\C#\\task67\\task67.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\Downloads\\GB\\C#\\task67\\obj\\",
+        "outputPath": "f:\\Downloads\\GB\\C#\\task67\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
